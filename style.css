@@ -71,6 +71,7 @@ body {
 }
 .services .card-body i {
   font-size: 50px;
+  margin-bottom: 10px;
 }
 .portfolio .card,
 .team .card {
